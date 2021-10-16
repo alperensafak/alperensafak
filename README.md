@@ -1,14 +1,17 @@
-<img src="https://c.tenor.com/KY4oD7lpEroAAAAC/baby-yoda-the-mandalorian.gif" align="right" width="400" height="250">
+<img src="https://c.tenor.com/qTjGmgXmGr4AAAAC/baby-yoda-the-mandalorian.gif" align="right" width="400" height="250">
 
 ### Hi! I'm Alperen.
 ## Web Developer
 ### Node.js | React
 
+<br />
+
 ### Contact me
 
-[<img  width="45" src="https://cdn-icons.flaticon.com/png/512/1927/premium/1927768.png?token=exp=1634384461~hmac=8a65bfccd41bc0513276f878529abcac" align="left" />][website]
+[<img  width="45" src="https://cdn-icons-png.flaticon.com/512/1298/1298082.png" align="left" />][website]
 [<img  width="45" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" align="left" />][linkedin]
 
+<br />
 <br />
 
 ### Tech I use
@@ -24,8 +27,8 @@
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=alperensafak&theme=radical" align="right" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensafak&layout=compact" align="left" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alperensafak&theme=radical" align="right"  height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensafak&layout=compact" width="400" height="180"/>
+
 
 [website]: https://www.alperensafak.com
 [linkedin]: https://www.linkedin.com/in/alperensafak/
