@@ -27,8 +27,8 @@
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=alperensafak&theme=cobalt" align="right"  height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensafak&layout=compact" align="left"  height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alperensafak&theme=cobalt" align="right" width="430" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensafak&layout=compact" align="left" width="360" height="180"/>
 
 
 [website]: https://www.alperensafak.com
