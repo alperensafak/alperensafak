@@ -1,6 +1,6 @@
-<img src="https://c.tenor.com/qTjGmgXmGr4AAAAC/baby-yoda-the-mandalorian.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" align="right" width="400" height="250">
 
-### Hi! I'm Alperen.
+### Hi! :wave: I'm Alperen.
 ## Web Developer
 ### Node.js | React
 
@@ -27,7 +27,8 @@
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=alperensafak&theme=radical" align="right"  height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensafak&layout=compact" width="400" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alperensafak&theme=cobalt" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperensafak&layout=compact" width="400" height="180"/>
 
 
 [website]: https://www.alperensafak.com
