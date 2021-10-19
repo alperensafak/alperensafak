@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" align="right" width="400" height="250">
 
 ### Hi! :wave: I'm Alperen.
-## Web Developer
+## Web Developer. JavaScript lover.
 ### Node.js | React
 
 <br />
